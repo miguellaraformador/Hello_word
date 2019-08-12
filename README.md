@@ -1,3 +1,3 @@
 # Hello_word
 primer repositorio
-prueba
+Repositorio archivos SopBox Snap para Arduino como PLC
